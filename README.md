@@ -2,5 +2,4 @@
 
 Make updates to readme file
 
-
-Update ReadMe in update-readme branch
+Updates made on master on Github before rebase
