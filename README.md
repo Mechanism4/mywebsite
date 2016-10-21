@@ -11,3 +11,7 @@ Updates made on master on Github before rebase
 This file is just a readme file.
 
 Provide examples
+
+## Getting Started
+
+Just clone this repository
